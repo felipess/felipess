@@ -4,7 +4,7 @@
 [![GitLab Badge](https://img.shields.io/badge/-GitLab-333?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/felipediogenes87)](https://gitlab.com/felipediogenes87)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-diogenes-24401770/)](https://www.linkedin.com/in/felipe-diogenes-24401770/)
 
-![Snake animation](https://github.com/felipess/felipess/blob/main/github-contribution-grid-snake (2).svg)
+![Snake animation](https://github.com/felipess/felipess/blob/main/github-contribution-grid-snake.svg)
 
 💬 Sobre Mim
 
