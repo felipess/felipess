@@ -3,8 +3,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/felipess)](https://github.com/felipess)
 [![GitLab Badge](https://img.shields.io/badge/-GitLab-333?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/felipediogenes87)](https://gitlab.com/felipediogenes87)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-diogenes-24401770/)](https://www.linkedin.com/in/felipe-diogenes-24401770/)
-![Snake animation](https://github.com/felipess/felipess/blob/output/github-contribution-grid-snake.svg)
-
 
 💬 Sobre Mim
 
@@ -23,6 +21,9 @@ Pós graduando em Cloud Computing e Desenvolvedor de Software com experiência e
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=felipess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 -->
+
+![Snake animation](https://github.com/felipess/felipess/blob/output/github-contribution-grid-snake.svg)
+
           
           
           
