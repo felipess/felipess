@@ -22,7 +22,7 @@ Pós graduando em Cloud Computing e Desenvolvedor de Software com experiência e
 </div>
 -->
 
-![Snake animation](https://github.com/felipess/felipess/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/felipess/felipess/blob/main/github-contribution-grid-snake.svg)
 
           
           
