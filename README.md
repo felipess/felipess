@@ -4,6 +4,8 @@
 [![GitLab Badge](https://img.shields.io/badge/-GitLab-333?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/felipediogenes87)](https://gitlab.com/felipediogenes87)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-diogenes-24401770/)](https://www.linkedin.com/in/felipe-diogenes-24401770/)
 
+![Snake animation](https://github.com/felipess/felipess/blob/main/github-contribution-grid-snake-blue.svg)
+
 💬 Sobre Mim
 
 Pós graduando em Cloud Computing e Desenvolvedor de Software com experiência em C# e .NET, e no desenvolvimento de aplicações web e gerenciamento de estados globais com Redux. Com expertise em tecnologias, incluindo HTML, CSS, JavaScript, React, MySQL e PostgreSQL, atualmente contribuo para projetos de pesquisa e desenvolvimento, focando na leitura de logs de drones.
@@ -22,7 +24,6 @@ Pós graduando em Cloud Computing e Desenvolvedor de Software com experiência e
 </div>
 -->
 
-![Snake animation](https://github.com/felipess/felipess/blob/main/github-contribution-grid-snake.svg)
 
           
           
